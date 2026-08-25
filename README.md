@@ -2,7 +2,11 @@
 
 Agent skills for people who have to defend their design work.
 
-Agents are good at producing design rationale that sounds right. They are much worse at producing rationale that is *true* — that names the option you passed on, admits what your choice cost, and reports the result that cut against you. Left alone, an agent will write you a case study where every decision was correct, every number is yours, and nothing was traded away.
+For twenty years a design portfolio worked as proof by being expensive — producing a polished case study cost real hours, so the artifact itself was evidence. That cost is now zero. Anyone can generate six clean sections and a metrics band in an afternoon, and no reader can tell the difference by looking.
+
+So evaluation moved to the only question that still carries information: **walk me through why you didn't just do the simpler thing.**
+
+These skills exist to make an agent useful for answering that. Agents are good at producing design rationale that sounds right. They are much worse at producing rationale that is *true* — that names the option you passed on, admits what your choice cost, and reports the result that cut against you. Left alone, an agent will write you a case study where every decision was correct, every number is yours, and nothing was traded away.
 
 That is the gap these skills close. They encode a working method built across social platforms, logistics, fintech, AI products, a design system, and design leadership at enterprise scale: **a decision you can't defend isn't a decision, it's a preference — and a claim you can't support isn't a result, it's a story.**
 
@@ -35,6 +39,20 @@ Or copy any `skills/<name>/` directory into your project's `.claude/skills/`.
 **Trust is a design material.** In any product that asserts something to a user, the interface either builds trust or spends it. Confidence you haven't earned is the fastest way to spend it.
 
 **The number you care about most is rarely the biggest one.** Lead with the metric that maps to the intent. Put the large number second.
+
+## What that looks like in practice
+
+The skills and worked examples are held to the standard they enforce, which means several of them argue against their own author:
+
+> It cut both ways, as designed. Novices stopped bouncing off the first run; experienced gardeners said plainly that features they knew existed were buried. Same call again, but the complaint was real and there was no good answer for it.
+
+> **The risk landed.** Developers largely did not find the primitives on their own; they hit the edge of a default and asked rather than dropping down a layer. That is a documentation failure, not an architecture one, and it is mine to fix.
+
+> The scale number that gets quoted — 18,000+ people across 36 countries — is the organization, not my team. I had direct authority over 15 designers and influence over everyone else, which is the honest shape of design leadership at this size.
+
+> The client's commercial results are theirs to disclose. What is claimed here is the design work.
+
+An agent running these skills will hold your work to that standard, including when the honest version is smaller than the one you wanted to write.
 
 ## Why this exists
 
