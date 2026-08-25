@@ -6,9 +6,9 @@ Read these when you need to see the shape of a finished decision before writing 
 
 ---
 
-## GrowIt! — Social gardening platform
+## Social gardening platform
 **Role:** Lead Product Designer, one of eight. Design end to end: feature vision, evaluative research, flows, interaction design, hi-fi prototyping.
-**Not mine to decide:** the client and PM set the three-phase sequencing; the Ball Horticultural partnership was already in place.
+**Not mine to decide:** the client and PM set the three-phase sequencing; the horticultural content partnership was already in place.
 
 ### One interface for novices and experts, not two
 
@@ -64,9 +64,9 @@ Read these when you need to see the shape of a finished decision before writing 
 
 ---
 
-## Oh!Plays — Sports video editing for student athletes
+## Sports video editing for student athletes
 **Role:** UX Researcher & Designer, one of six. Owned user research and the design that came out of it.
-**Claim boundary:** Oh!Plays shipped, but post-launch store rating, retention and total reels created came from the product's life after this engagement. They are not results of this work and are not claimed here.
+**Claim boundary:** the app shipped, but post-launch store rating, retention and total reels created came from the product's life after this engagement. They are not results of this work and are not claimed here.
 
 ### Testing both editing models instead of arguing about them
 
@@ -92,7 +92,7 @@ Read these when you need to see the shape of a finished decision before writing 
 
 ---
 
-## LedgerIQ — AI payroll fraud detection
+## AI payroll fraud detection
 **Role:** AI Product Lead & Technical Architect.
 
 ### Fixing false positives with context, not thresholds
@@ -119,7 +119,7 @@ Read these when you need to see the shape of a finished decision before writing 
 
 ---
 
-## Addvance — AI career intelligence platform
+## AI career intelligence platform
 **Role:** Product Design Director, two-week case-study sprint for Alight, three-person team.
 **Claim boundary:** everything here is prototype-stage. The engagement ended at validation, not at a shipped product.
 
@@ -147,7 +147,7 @@ Read these when you need to see the shape of a finished decision before writing 
 
 ---
 
-## EchoDrive — Trucking and logistics platform
+## Trucking and logistics platform
 **Role:** UX Researcher & Product Designer, with Echo Global Logistics and Eight Bit Studios.
 **Claim boundary:** the client's commercial results are theirs to disclose. What is claimed here is the design work.
 
@@ -169,11 +169,11 @@ Read these when you need to see the shape of a finished decision before writing 
 
 **Cost.** Weeks of field time in an industry with low technology penetration and no interest in being researched.
 
-**Outcome.** The driver app was built for the conditions drivers actually work in, which is the difference between adoption and a compliance tool nobody opens. EchoDrive went alpha → beta → launch and met the ELD Mandate.
+**Outcome.** The driver app was built for the conditions drivers actually work in, which is the difference between adoption and a compliance tool nobody opens. The product went alpha → beta → launch and met the ELD Mandate.
 
 ---
 
-## Nagarro — Design leadership at scale
+## Design leadership at scale
 **Role:** Head of Design, March–October 2022.
 **Scope, stated plainly:** direct authority over 15 designers; influence, not authority, over the wider organization. The 18,000+ figure across 36 countries is the organization, not the team. Nearly every decision below is therefore about persuasion rather than control.
 
@@ -199,7 +199,7 @@ Read these when you need to see the shape of a finished decision before writing 
 
 ---
 
-## Rambis UI — Design system
+## Design system
 **Role:** Lead design-system architect, team of four. Ongoing, not finished. Started as a fork of Chakra UI, not a clean sheet.
 
 ### Forking Chakra UI instead of starting from a clean sheet
@@ -226,7 +226,7 @@ Read these when you need to see the shape of a finished decision before writing 
 
 ---
 
-## Waffle — AI interview scorecard generator
+## AI interview scorecard generator
 **Role:** Whole product lifecycle — research, strategy, UX, full-stack build, go-to-market. Live production SaaS.
 
 ### Generative UI over plain text streaming

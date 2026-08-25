@@ -59,6 +59,8 @@ An agent running these skills will hold your work to that standard, including wh
 
 The skills are a side-effect of domain expertise, not a replacement for it. They encode judgment developed by making these calls and living with what they cost — which is why the examples throughout are real projects with real tradeoffs, including the ones where the predicted cost landed.
 
+The engagements are described by what they were rather than by name — a social gardening platform, a payroll fraud-detection system, a design system — so the skills read as method rather than as a client list. The decisions, the costs and the outcomes that cut against the author are unchanged; only the labels are off. Named versions of several of them are public case studies at [work.randyellis.design](https://work.randyellis.design).
+
 Use them to get to a defensible decision faster. Then go develop the expertise yourself; it is the part that compounds.
 
 ## Prior art
