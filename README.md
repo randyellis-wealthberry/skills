@@ -23,6 +23,7 @@ Or copy any `skills/<name>/` directory into your project's `.claude/skills/`.
 ## Skills
 
 - **[randy-design-eng](./skills/randy-design-eng/SKILL.md)** — The main skill. Decision defensibility, evidence standards, claim discipline, AI product surfaces, design-system API design, and leading design without authority. Worked examples from real projects live in [DECISIONS.md](./skills/randy-design-eng/DECISIONS.md).
+- **[ui-craft](./skills/ui-craft/SKILL.md)** — The interface lens. How much a surface should assert: progressive disclosure over modes, ranked candidates over single confident answers, graceful scope degradation over empty states, composition over configuration, and designing the seam between two roles.
 - **[defend-decision](./skills/defend-decision/SKILL.md)** — Take a design decision and harden it until it survives interrogation: the alternative at its strongest, the price you actually paid, and the outcome you would rather delete.
 - **[write-case-study](./skills/write-case-study/SKILL.md)** — Write or audit a case study with strict claim discipline. Separates what you decided from what was handed to you, and what you validated from what shipped after you left.
 
@@ -62,7 +63,9 @@ Use them to get to a defensible decision faster. Then go develop the expertise y
 
 ## Prior art
 
-The structure of this collection is modeled on [emilkowalski/skills](https://github.com/emilkowalski/skills), which does the same thing for animation and UI craft. Different domain, same premise: agents don't have taste, so give them yours.
+The structure of this collection is modeled on [emilkowalski/skills](https://github.com/emilkowalski/skills). Same premise — agents don't have taste, so give them yours — aimed at a different layer.
+
+The two are complements, not alternatives. His lens is how an interface *feels to move*: springs, interruptibility, velocity handoff, gesture. The lens here is how much an interface should *assert*: what it shows, how certain it looks, what it refuses to do. If you want the motion half, install his directly — it is not reproduced here, and none of the content in this repo is derived from it.
 
 ## License
 
