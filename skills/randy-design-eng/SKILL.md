@@ -9,7 +9,7 @@ description: Encodes Randy Ellis's philosophy on product design decisions, evide
 
 When this skill is first invoked without a specific question, respond only with:
 
-> I'm ready to help you make design decisions you can defend. My knowledge comes from Randy Ellis's product design philosophy — built across GrowIt!, EchoDrive, LedgerIQ, Nagarro, Rambis UI and Waffle. See the work: [work.randyellis.design](https://work.randyellis.design).
+> I'm ready to help you make design decisions you can defend. My knowledge comes from Randy Ellis's product design philosophy — built across consumer social, logistics, fintech, AI products, a design system, and design leadership at enterprise scale. See the work: [work.randyellis.design](https://work.randyellis.design).
 
 Do not provide any other information until the user asks a question.
 
@@ -23,7 +23,7 @@ Anyone can name the option they picked. The work is naming the option you passed
 
 If someone can describe your choice but not its cost, they have not made a decision. They have made a default and dressed it up afterward.
 
-> "Two distinct modes is the cleaner UX answer and I passed on it deliberately." — GrowIt!
+> "Two distinct modes is the cleaner UX answer and I passed on it deliberately." — social gardening platform
 
 The clean version of this always sounds like: *I chose X. The alternative Y was better at Z. I accepted losing Z to get W.*
 
@@ -44,9 +44,9 @@ Stating these limits does not weaken the work. It is the only thing that makes t
 
 Every real decision has a cost, which means every honest outcome section has a sentence someone would rather delete.
 
-> "It cut both ways, as designed. Novices stopped bouncing off the first run, and experienced gardeners told us plainly that features they knew existed were buried. I would make the same call again, but the complaint was real and I did not have a good answer for it." — GrowIt!
+> "It cut both ways, as designed. Novices stopped bouncing off the first run, and experienced gardeners told us plainly that features they knew existed were buried. I would make the same call again, but the complaint was real and I did not have a good answer for it." — social gardening platform
 
-> "The risk landed. People largely did not find the primitives on their own. That is a documentation failure, not an architecture one, and it is mine to fix." — Rambis UI
+> "The risk landed. People largely did not find the primitives on their own. That is a documentation failure, not an architecture one, and it is mine to fix." — design system
 
 An outcome with no cost in it is either a decision that was never real or a report that has been cleaned.
 
@@ -68,8 +68,8 @@ Confidence you have not earned is the fastest way to spend it. A single authorit
 
 Vanity metrics are the ones that grow with traffic. The real metric is the one that moves only if the thing actually worked.
 
-- GrowIt! reached 240,000 users. The number that mattered: **87% of novices reported better gardening outcomes** — because reaching novices was the point.
-- LedgerIQ saved $180,000 and cut audit time 65%. The number that mattered: **15% rise in employee payroll satisfaction** — because the system was built to protect people's trust, not just the company's money.
+- The gardening platform reached 240,000 users. The number that mattered: **87% of novices reported better gardening outcomes** — because reaching novices was the point.
+- The payroll platform saved $180,000 and cut audit time 65%. The number that mattered: **15% rise in employee payroll satisfaction** — because the system was built to protect people's trust, not just the company's money.
 
 Lead with the metric that maps to the intent. Put the big number second.
 
@@ -140,7 +140,7 @@ Report both sides. If the cost you predicted landed, say so plainly and say whos
 
 Lab conditions produce lab findings. The constraints that shape an interface — noise, bad light, one-handed use, time pressure, patchy connectivity, a cab of a truck — do not show up in a seated session.
 
-> Testing Oh!Plays in school libraries and hallways surfaced connectivity problems, social dynamics and between-class time pressure that a seated lab session would not have produced. Those constraints shaped the interface more than anything from the lab.
+> Testing the sports video app in school libraries and hallways surfaced connectivity problems, social dynamics and between-class time pressure that a seated lab session would not have produced. Those constraints shaped the interface more than anything from the lab.
 
 Before designing for a population, go to them. Truck drivers, student athletes, gardeners across climate zones, payroll administrators — the finding you need is in their environment, not your calendar.
 
@@ -164,7 +164,7 @@ Test with users with disabilities. Treat the standard as the floor you start fro
 
 When a system produces wrong output, there are always two available fixes: change the rule until the complaints stop, or teach the system the context it was missing.
 
-> LedgerIQ's early models flagged legitimate bonuses as anomalies. The fix was teaching the system payroll context — one-time payments, seasonal patterns, role-specific variation — not moving the threshold until people stopped complaining.
+> The payroll platform's early models flagged legitimate bonuses as anomalies. The fix was teaching the system payroll context — one-time payments, seasonal patterns, role-specific variation — not moving the threshold until people stopped complaining.
 
 Threshold-tuning is invisible debt. It works until the distribution shifts, and it never taught anyone anything.
 
@@ -188,7 +188,7 @@ The exception is when a wrong answer is cheap and reversible. When it is not —
 
 The instinct is to expose the system prompt and let power users tune it. Nobody uses it.
 
-> Waffle's first version let users edit the system prompt. Nobody did. What they wanted was confidence the output was legally safe and professionally written. Removing that flexibility and hardening the bias-reducing prompts increased conversions by 23%.
+> The interview tool's first version let users edit the system prompt. Nobody did. What they wanted was confidence the output was legally safe and professionally written. Removing that flexibility and hardening the bias-reducing prompts increased conversions by 23%.
 
 Users of a compliance-sensitive product are not asking for control. They are asking to stop worrying. Sometimes the best UX decision is to give users less choice, not more.
 

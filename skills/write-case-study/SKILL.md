@@ -29,7 +29,7 @@ Open with your actual scope. Three things, in this order:
 
 That third item is the one people skip, and it is the one that makes the rest credible.
 
-> "Two things that shape this case study were not mine to decide: the client and PM set the three-phase sequencing, and the Ball Horticultural partnership was already in place when I arrived. What follows are the calls I actually made, inside those constraints."
+> "Two things that shape this case study were not mine to decide: the client and PM set the three-phase sequencing, and the horticultural content partnership was already in place when I arrived. What follows are the calls I actually made, inside those constraints."
 
 When the title oversells the scope, correct it in the same paragraph:
 
@@ -75,7 +75,7 @@ Sort every result into one of three buckets and never blend them:
 
 **Lead with the metric that maps to the intent, not the biggest one.** Put the large number second.
 
-> "GrowIt! reached over 240,000 active users... The number I care about most is that 87% of novices reported better gardening outcomes, because that was the actual point."
+> "The platform reached over 240,000 active users... The number I care about most is that 87% of novices reported better gardening outcomes, because that was the actual point."
 
 If the client's commercial results are confidential, say so and describe the design work instead. That sentence costs nothing and buys the reader's trust in everything around it.
 
