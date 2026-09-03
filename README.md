@@ -22,6 +22,7 @@ Or copy any `skills/<name>/` directory into your project's `.claude/skills/`.
 
 ## Skills
 
+- **[randy-ellis](./skills/randy-ellis/SKILL.md)** — The whole method as one file. The six rules, the decision framework, evidence standards, interface assertion, AI product surfaces, design systems, leading without authority, and the review format, consolidated from the four skills below. Served canonically at [work.randyellis.design/skill.md](https://work.randyellis.design/skill.md); the paid modules and the engagement are at [work.randyellis.design/skill](https://work.randyellis.design/skill).
 - **[randy-design-eng](./skills/randy-design-eng/SKILL.md)** — The main skill. Decision defensibility, evidence standards, claim discipline, AI product surfaces, design-system API design, and leading design without authority. Worked examples from real projects live in [DECISIONS.md](./skills/randy-design-eng/DECISIONS.md).
 - **[ui-craft](./skills/ui-craft/SKILL.md)** — The interface lens. How much a surface should assert: progressive disclosure over modes, ranked candidates over single confident answers, graceful scope degradation over empty states, composition over configuration, and designing the seam between two roles.
 - **[defend-decision](./skills/defend-decision/SKILL.md)** — Take a design decision and harden it until it survives interrogation: the alternative at its strongest, the price you actually paid, and the outcome you would rather delete.
